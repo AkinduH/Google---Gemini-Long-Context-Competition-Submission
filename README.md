@@ -26,6 +26,9 @@ This project leverages advanced AI technologies to deliver a personalized and ef
 
 ## Why Sri Lanka?
 
+![Sri Lanka’s Pristine Beaches](https://github.com/user-attachments/assets/06ee5429-86a4-4b95-bfe6-ca829ab6a6c6)
+
+
 Sri Lanka is one of the world’s most captivating destinations, known for its diverse landscapes, rich cultural heritage, and abundant wildlife. It’s the perfect setting for showcasing the capabilities of this AI-powered travel platform.
 
 ### Highlights of Sri Lanka:
@@ -50,12 +53,6 @@ Fine-tuned RAG-based chatbot provides real-time support and personalized travel 
 
 ### 4. **Boosting Sri Lanka Tourism**
 Enhances the island’s appeal by offering a seamless, tech-driven travel experience, emphasizing its natural beauty and cultural richness.
-
----
-
-## Visual Insight
-
-![Sri Lanka’s Pristine Beaches](https://github.com/user-attachments/assets/06ee5429-86a4-4b95-bfe6-ca829ab6a6c6)
 
 ---
 
