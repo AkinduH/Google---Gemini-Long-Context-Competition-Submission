@@ -1,5 +1,3 @@
----
-
 # AI for Seamless Travel Planning & Recommendations
 
 This project leverages advanced AI technologies to deliver a personalized and efficient travel planning experience, specifically tailored for exploring Sri Lanka. Key features include destination recommendations, itinerary generation, accommodation suggestions, and an interactive travel chatbot. 
@@ -61,8 +59,14 @@ Enhances the island’s appeal by offering a seamless, tech-driven travel experi
 
 ---
 
-## Why This Matters
-This project aligns technology with tourism to enhance user experience and support Sri Lanka’s growth as a global travel destination. By making travel planning easier, faster, and more tailored, it not only meets traveler needs but also promotes Sri Lanka’s unique charm on the global stage.
+## Additional Resources
+
+- **Kaggle Submission**: Explore the code implementation on Kaggle [here](https://www.kaggle.com/code/akinduhiman/ai-for-seamless-travel-planning-recommendations).  
+- **YouTube Preview Video**: Watch a project preview on YouTube [here](https://www.youtube.com/watch?v=jV-L7OuLF54).
 
 ---
 
+## Why This Matters
+This project aligns technology with tourism to enhance user experience and support Sri Lanka’s growth as a global travel destination. By making travel planning easier, faster, and more tailored, it not only meets traveler needs but also promotes Sri Lanka’s unique charm on the global stage.
+
+--- 
